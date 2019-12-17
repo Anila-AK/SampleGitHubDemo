@@ -13,3 +13,6 @@ const someName =(firstName , LastName)=>
 {
     return firstName+ LastName;
 }
+
+getArgs("heyyy");
+getNAme();
